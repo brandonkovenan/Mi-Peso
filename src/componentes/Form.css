@@ -1,0 +1,20 @@
+ .form-group{
+     position: absolute;
+    top:30%;
+    z-index: 20;
+    right: 42.5%;
+    font-weight: bold;
+}
+.enviar{
+    position: relative;
+}
+.enviar  {
+    margin-left: 15px;
+}
+.enviar:hover{
+    border-color: gold;
+}
+label{
+    display: grid;
+    color: white;
+}
